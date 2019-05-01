@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string></string>
+				<string>EEE556EF14EDB2BCABC548DCB4AC65E6ED9B12B5</string>
 				<key>dateExpires</key>
-				<string></string>
+				<string>30/05/2019</string>
 				<key>type</key>
-				<string>Unknown</string>
+				<string>iOS Development</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,11 +28,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string></string>
+						<string>EEE556EF14EDB2BCABC548DCB4AC65E6ED9B12B5</string>
 						<key>dateExpires</key>
-						<string></string>
+						<string>30/05/2019</string>
 						<key>type</key>
-						<string>Unknown</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>Charts.framework</string>
@@ -45,8 +45,26 @@
 					</dict>
 				</dict>
 			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3HQG9T963Q.mfe08.ABC4D</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3HQG9T963Q</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
 			<key>name</key>
 			<string>ABC4D.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8237697b-e346-4cd9-8aa9-aadfa0b5fd90</string>
+				<key>name</key>
+				<string>testABC4D</string>
+			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>

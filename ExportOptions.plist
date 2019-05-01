@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D.ipa</string>
+		<string>https://RyanArmiger.github.io/ABC4D.plist</string>
 		<key>displayImageURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D57.png</string>
+		<string>https://dev.abc4d.xyz/static/users/login-v18/images/icons/abc4d.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D512.png</string>
+		<string>https://dev.abc4d.xyz/static/users/login-v18/images/icons/abc4d.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
