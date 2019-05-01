@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D.plist</string>
+		<string>https://RyanArmiger.github.io/ABC4D.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://dev.abc4d.xyz/static/users/login-v18/images/icons/abc4d.png</string>
+		<string>https://RyanArmiger.github.io/ABC4D57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://dev.abc4d.xyz/static/users/login-v18/images/icons/abc4d.png</string>
+		<string>https://RyanArmiger.github.io/ABC4D512.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
@@ -23,7 +23,7 @@
 		<string>testABC4D</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Developer</string>
+	<string>EEE556EF14EDB2BCABC548DCB4AC65E6ED9B12B5</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
