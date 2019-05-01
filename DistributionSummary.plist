@@ -12,9 +12,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>EEE556EF14EDB2BCABC548DCB4AC65E6ED9B12B5</string>
+				<string>162339E7A6C8F517CA740C96BE722105A8C06896</string>
 				<key>dateExpires</key>
-				<string>30/05/2019</string>
+				<string>30/04/2020</string>
 				<key>type</key>
 				<string>iOS Development</string>
 			</dict>
@@ -28,9 +28,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>EEE556EF14EDB2BCABC548DCB4AC65E6ED9B12B5</string>
+						<string>162339E7A6C8F517CA740C96BE722105A8C06896</string>
 						<key>dateExpires</key>
-						<string>30/05/2019</string>
+						<string>30/04/2020</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -61,7 +61,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>8237697b-e346-4cd9-8aa9-aadfa0b5fd90</string>
+				<string>3862d2bc-0f2b-4e42-a53d-f1ccc1646218</string>
 				<key>name</key>
 				<string>testABC4D</string>
 			</dict>

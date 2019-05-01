@@ -23,7 +23,7 @@
 		<string>testABC4D</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>EEE556EF14EDB2BCABC548DCB4AC65E6ED9B12B5</string>
+	<string>iPhone Developer</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
