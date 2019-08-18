@@ -51,6 +51,10 @@
 				<string>3HQG9T963Q.mfe08.ABC4D</string>
 				<key>aps-environment</key>
 				<string>development</string>
+				<key>com.apple.developer.healthkit</key>
+				<true/>
+				<key>com.apple.developer.healthkit.access</key>
+				<array/>
 				<key>com.apple.developer.team-identifier</key>
 				<string>3HQG9T963Q</string>
 				<key>get-task-allow</key>
@@ -61,7 +65,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>01ae0ca4-bea4-40fc-b098-b2eaa565fe02</string>
+				<string>7c878f7f-01e2-48cf-b2c1-a6d376095ccb</string>
 				<key>name</key>
 				<string>testABC4D</string>
 			</dict>
