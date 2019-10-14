@@ -16,20 +16,20 @@
 		<string>https://RyanArmiger.github.io/ABC4D57.png</string>
 	</dict>
 	<key>method</key>
-	<string>development</string>
+	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>mfe08.ABC4D</key>
-		<string>testABC4D</string>
+		<key>com.cbitdiabetes.abc4d</key>
+		<string>AdHoc Testing</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Developer</string>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>3HQG9T963Q</string>
+	<string>CWD37K285M</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>

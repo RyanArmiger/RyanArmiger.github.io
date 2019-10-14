@@ -29,11 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>mfe08.ABC4D</string>
+				<string>com.cbitdiabetes.abc4d</string>
 				<key>bundle-version</key>
-				<string>0.4</string>
+				<string>0.6</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>ABC4D</string>
 			</dict>

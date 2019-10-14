@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>162339E7A6C8F517CA740C96BE722105A8C06896</string>
+				<string>6F467220FB3CA0A00CBE02E99F9F9B53ACC99FD0</string>
 				<key>dateExpires</key>
-				<string>30/04/2020</string>
+				<string>28/09/2020</string>
 				<key>type</key>
-				<string>iOS Development</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,53 +28,53 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>162339E7A6C8F517CA740C96BE722105A8C06896</string>
+						<string>6F467220FB3CA0A00CBE02E99F9F9B53ACC99FD0</string>
 						<key>dateExpires</key>
-						<string>30/04/2020</string>
+						<string>28/09/2020</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Charts.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
-						<string>3HQG9T963Q</string>
+						<string>CWD37K285M</string>
 						<key>name</key>
-						<string>Imperial College London (Institute of Biomedical Engineering)</string>
+						<string>Pau Herrero</string>
 					</dict>
 				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>3HQG9T963Q.mfe08.ABC4D</string>
+				<string>CWD37K285M.com.cbitdiabetes.abc4d</string>
 				<key>aps-environment</key>
-				<string>development</string>
+				<string>production</string>
 				<key>com.apple.developer.healthkit</key>
 				<true/>
 				<key>com.apple.developer.healthkit.access</key>
 				<array/>
 				<key>com.apple.developer.team-identifier</key>
-				<string>3HQG9T963Q</string>
+				<string>CWD37K285M</string>
 				<key>get-task-allow</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>name</key>
 			<string>ABC4D.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>50425c24-28af-468d-95a7-22cf5609ac97</string>
+				<string>a88ae6da-18fa-469f-aa4a-0c05e284ebda</string>
 				<key>name</key>
-				<string>testABC4D</string>
+				<string>AdHoc Testing</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>3HQG9T963Q</string>
+				<string>CWD37K285M</string>
 				<key>name</key>
-				<string>Imperial College London (Institute of Biomedical Engineering)</string>
+				<string>Pau Herrero</string>
 			</dict>
 		</dict>
 	</array>
