@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>6F467220FB3CA0A00CBE02E99F9F9B53ACC99FD0</string>
+				<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
 				<key>dateExpires</key>
 				<string>28/09/2020</string>
 				<key>type</key>
-				<string>Apple Distribution</string>
+				<string>Apple Development</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,11 +28,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>6F467220FB3CA0A00CBE02E99F9F9B53ACC99FD0</string>
+						<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
 						<key>dateExpires</key>
 						<string>28/09/2020</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>Charts.framework</string>
@@ -50,7 +50,7 @@
 				<key>application-identifier</key>
 				<string>CWD37K285M.com.cbitdiabetes.abc4d</string>
 				<key>aps-environment</key>
-				<string>production</string>
+				<string>development</string>
 				<key>com.apple.developer.healthkit</key>
 				<true/>
 				<key>com.apple.developer.healthkit.access</key>
@@ -58,16 +58,16 @@
 				<key>com.apple.developer.team-identifier</key>
 				<string>CWD37K285M</string>
 				<key>get-task-allow</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>name</key>
 			<string>ABC4D.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>a88ae6da-18fa-469f-aa4a-0c05e284ebda</string>
+				<string>d156a32c-b73c-4851-a8a7-bb9babfd5836</string>
 				<key>name</key>
-				<string>AdHoc Testing</string>
+				<string>Development</string>
 			</dict>
 			<key>team</key>
 			<dict>

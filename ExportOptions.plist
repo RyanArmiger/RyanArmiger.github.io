@@ -16,14 +16,14 @@
 		<string>https://RyanArmiger.github.io/ABC4D57.png</string>
 	</dict>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>development</string>
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.cbitdiabetes.abc4d</key>
-		<string>AdHoc Testing</string>
+		<string>Development</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>Apple Distribution</string>
+	<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
