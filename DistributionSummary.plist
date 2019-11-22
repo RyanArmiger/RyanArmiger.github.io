@@ -44,6 +44,78 @@
 						<string>Pau Herrero</string>
 					</dict>
 				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+						<key>dateExpires</key>
+						<string>28/09/2020</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>LoopKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CWD37K285M</string>
+						<key>name</key>
+						<string>Pau Herrero</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+						<key>dateExpires</key>
+						<string>28/09/2020</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>LoopKitUI.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CWD37K285M</string>
+						<key>name</key>
+						<string>Pau Herrero</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+						<key>dateExpires</key>
+						<string>28/09/2020</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>ShareClient.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CWD37K285M</string>
+						<key>name</key>
+						<string>Pau Herrero</string>
+					</dict>
+				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>

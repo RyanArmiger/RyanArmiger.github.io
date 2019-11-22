@@ -23,7 +23,7 @@
 		<string>Development</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+	<string>Apple Development</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
