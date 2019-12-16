@@ -17,8 +17,15 @@
 	</dict>
 	<key>method</key>
 	<string>development</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.cbitdiabetes.abc4d</key>
+		<string>Development</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Development</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
