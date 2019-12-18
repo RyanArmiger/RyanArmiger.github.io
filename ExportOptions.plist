@@ -11,21 +11,14 @@
 		<key>appURL</key>
 		<string>https://RyanArmiger.github.io/ABC4D.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D.png</string>
+		<string>https://RyanArmiger.github.io/ABC4D57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D.png</string>
+		<string>https://RyanArmiger.github.io/ABC4D57.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>com.cbitdiabetes.abc4d</key>
-		<string>Development</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>Apple Development</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
