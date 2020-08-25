@@ -9,7 +9,8 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D.ipa</string>
+		<string>https://RyanArmiger.github.io/ABC4D.ipa
+</string>
 		<key>displayImageURL</key>
 		<string>https://RyanArmiger.github.io/ABC4D57.png
 </string>
