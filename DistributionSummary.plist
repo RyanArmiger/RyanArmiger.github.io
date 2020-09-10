@@ -12,9 +12,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+				<string>789BDA9F897F05037BC87E842F4FBD38FE042306</string>
 				<key>dateExpires</key>
-				<string>28/09/2020</string>
+				<string>09/09/2021</string>
 				<key>type</key>
 				<string>Apple Development</string>
 			</dict>
@@ -28,9 +28,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+						<string>789BDA9F897F05037BC87E842F4FBD38FE042306</string>
 						<key>dateExpires</key>
-						<string>28/09/2020</string>
+						<string>09/09/2021</string>
 						<key>type</key>
 						<string>Apple Development</string>
 					</dict>
@@ -52,9 +52,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+						<string>789BDA9F897F05037BC87E842F4FBD38FE042306</string>
 						<key>dateExpires</key>
-						<string>28/09/2020</string>
+						<string>09/09/2021</string>
 						<key>type</key>
 						<string>Apple Development</string>
 					</dict>
@@ -76,9 +76,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+						<string>789BDA9F897F05037BC87E842F4FBD38FE042306</string>
 						<key>dateExpires</key>
-						<string>28/09/2020</string>
+						<string>09/09/2021</string>
 						<key>type</key>
 						<string>Apple Development</string>
 					</dict>
@@ -100,9 +100,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>DEC454627822B5AC5C78D1DBA1EA207A210D11AA</string>
+						<string>789BDA9F897F05037BC87E842F4FBD38FE042306</string>
 						<key>dateExpires</key>
-						<string>28/09/2020</string>
+						<string>09/09/2021</string>
 						<key>type</key>
 						<string>Apple Development</string>
 					</dict>
@@ -121,12 +121,6 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>CWD37K285M.com.cbitdiabetes.abc4d</string>
-				<key>aps-environment</key>
-				<string>development</string>
-				<key>com.apple.developer.healthkit</key>
-				<true/>
-				<key>com.apple.developer.healthkit.access</key>
-				<array/>
 				<key>com.apple.developer.team-identifier</key>
 				<string>CWD37K285M</string>
 				<key>get-task-allow</key>
@@ -137,7 +131,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>e88268eb-24ee-4af8-914d-0da468a3d4f3</string>
+				<string>8dbbbc98-6e74-419d-b07b-9fdd8f49e382</string>
 				<key>name</key>
 				<string>iOS Team Provisioning Profile: com.cbitdiabetes.abc4d</string>
 			</dict>
