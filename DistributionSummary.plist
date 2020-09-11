@@ -121,6 +121,12 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>CWD37K285M.com.cbitdiabetes.abc4d</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.healthkit</key>
+				<true/>
+				<key>com.apple.developer.healthkit.access</key>
+				<array/>
 				<key>com.apple.developer.team-identifier</key>
 				<string>CWD37K285M</string>
 				<key>get-task-allow</key>
