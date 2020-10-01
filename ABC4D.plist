@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://RyanArmiger.github.io/ABC4D57.png</string>
+					<string>https://RyanArmiger.github.io/ABC4D.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://RyanArmiger.github.io/ABC4D57.png</string>
+					<string>https://RyanArmiger.github.io/ABC4D.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.cbitdiabetes.abc4d</string>
 				<key>bundle-version</key>
-				<string>1.9.11</string>
+				<string>1.9.12</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
