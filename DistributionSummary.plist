@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>BiAP.ipa</key>
+	<key>ABC4D.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -120,7 +120,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>CWD37K285M.com.cbitdiabetes.biap</string>
+				<string>CWD37K285M.com.cbitdiabetes.abc4d</string>
 				<key>aps-environment</key>
 				<string>development</string>
 				<key>com.apple.developer.healthkit</key>
@@ -133,13 +133,13 @@
 				<true/>
 			</dict>
 			<key>name</key>
-			<string>BiAP.app</string>
+			<string>ABC4D.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>f52a06c9-f6af-4efa-b9ad-046b11ba5433</string>
+				<string>970e2a6c-93f2-4333-a102-ccd46051b0bd</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: com.cbitdiabetes.biap</string>
+				<string>iOS Team Provisioning Profile: com.cbitdiabetes.abc4d</string>
 			</dict>
 			<key>team</key>
 			<dict>
