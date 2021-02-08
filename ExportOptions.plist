@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D.ipa</string>
+		<string>https://RyanArmiger.github.io/BiAP.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D.png</string>
+		<string>https://RyanArmiger.github.io/BiAP.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://RyanArmiger.github.io/ABC4D.png</string>
+		<string>https://RyanArmiger.github.io/BiAP.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
